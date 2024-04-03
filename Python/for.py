@@ -20,3 +20,7 @@ for i in range(num_products):
 print("\nYour shopping list:")
 for item in shopping_list:
     print("- " + item)
+
+#######################
+for i in range(0, 192):
+  print(i)

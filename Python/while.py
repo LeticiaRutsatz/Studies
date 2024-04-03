@@ -29,3 +29,14 @@ while counter < 10:
     counter += 1
 
 print("The sum of all the values entered is:", total_sum)
+
+
+#############
+z = 50
+while(z != 10):
+    if(z > 10):
+        z = z - 1
+    else:
+        z = z+ 1
+
+print(z)
