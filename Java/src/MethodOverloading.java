@@ -6,8 +6,6 @@
 // Cada método calcularArea() pode ter parâmetros diferentes para lidar com os 
 // diferentes tipos de formas.
 
-package Java;
-
 public class MethodOverloading {
     // Método para calcular a área de um quadrado
     public double calcularArea(double lado) {

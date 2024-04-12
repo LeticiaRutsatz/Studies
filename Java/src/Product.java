@@ -1,5 +1,3 @@
-package Java;
-
 public class Product {
     private String name;
     private int value;
